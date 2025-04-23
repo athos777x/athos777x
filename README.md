@@ -22,3 +22,9 @@ Hello, I am Athrian Judd Pahang. I am an aspiring frontend developer from Philip
 [![](https://visitcount.itsvg.in/api?id=athos777x&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athos777x/athos777x/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athos777x/athos777x/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/athos777x/athos777x/output/github-snake.svg" />
+</picture>
