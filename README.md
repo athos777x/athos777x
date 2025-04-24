@@ -12,9 +12,8 @@ Hello, I am Athrian Judd Pahang. I am an aspiring frontend developer from Philip
 </picture>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=athos777x&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=athos777x&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=athos777x&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=athos777x&theme=dark&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=athos777x&theme=radical&no-frame=true&no-bg=true&margin-w=4)
